@@ -1,19 +1,19 @@
 This world can only be described in code...
 
-###💻 Currently Studying
+### 💻 Currently Studying
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 
-###💻 Languages
+### 💻 Languages
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 ![MSSQL](https://img.shields.io/badge/-TSQL-333333?style=flat&logo=microsoftsqlserver)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 
-###💻 OS Systems
+### 💻 OS Systems
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat)
 
-###💻 Applications or Systems
+### 💻 Applications or Systems
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 ![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=fff&style=flat)
