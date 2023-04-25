@@ -20,7 +20,7 @@ This world can only be described in code...
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 ![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Adobe After Effects Badge](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665style=flat)
+![Adobe After Effects Badge](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat)
 
