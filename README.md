@@ -1,8 +1,5 @@
 This world can only be described in code...
 
-### ☁ Cloud
-![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&style=flat)
-
 ### ⚡ Database
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
@@ -34,9 +31,6 @@ This world can only be described in code...
 ![Stadia Badge](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white&style=flat)
 ![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&style=flat)
 
-### 🤜 Group
-![Discord Badge](	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat)
-
 ### 👩‍💻 IDE 
 ![Atom Badge](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white&style=flat)
 ![PYCharm Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&style=flat)
@@ -50,9 +44,6 @@ This world can only be described in code...
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&style=flat)
 
-### 👨‍💻 Office
-![Coogle Sheets Badge](ttps://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white&style=flat)
-
 ### 💻 OS
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=flat)
@@ -60,22 +51,8 @@ This world can only be described in code...
 ### 💡 Prototyping Platforms
 ![Raspberry PI Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white&style=flat)
 
-### 🎶 Sound
-![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&style=flat)
-
-### 🎞 Streaming
-![Amazon Prime Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white&style=flat)
-![Netflix Badge](	https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&style=flat)
-![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&style=flat)
-![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&style=flat)
-
 ### 💻 Terminal
 ![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&style=flat)
-
-### 🌐 Web Browsers
-![Google Chrome Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&style=flat)
-
-
 
 
 <!--
