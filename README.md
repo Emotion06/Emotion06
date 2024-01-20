@@ -25,9 +25,6 @@ Passionate developer from Germany who is enthusiastic about innovative technolog
 ## 📊 GitHub Statistics
 ![Your GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Emotion06&show_icons=true&theme=radical)
 
-## 🚀 Quotes
-> "Stay hungry, Stay foolish." - Steve Jobs
-
 ## 📈 Visitor Counter
 ![Visitor Counter](https://profile-counter.glitch.me/Emotion06/count.svg)
 
