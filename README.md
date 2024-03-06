@@ -4,10 +4,6 @@
 <p align="center">Passionate developer from Germany who is enthusiastic about innovative technologies and constantly evolving to create great things.
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MegaITA">
-</p>
-
 <h2 align="center">🛠 Technologies & Tools </h2>
 
 <p align="center">
