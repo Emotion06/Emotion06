@@ -4,6 +4,10 @@
 <p align="center">Passionate developer from Germany who is enthusiastic about innovative technologies and constantly evolving to create great things.
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Emotion06">
+</p>
+
 <h2 align="center">🛠 Technologies & Tools </h2>
 
 <p align="center">
@@ -43,10 +47,5 @@
 
 <h2 align="center">📊 Statistics </h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Emotion06&show_icons=true&theme=radical">
-</p>
-
-<h2 align="center">📈 Visitor Counter </h2>
-<p align="center">
-    <img src="https://profile-counter.glitch.me/Emotion06/count.svg" alt="">
+    <img src="https://github-readme-stats.vercel.app/api?username=Emotion06&show_icons=true&theme=cobalt" alt="">
 </p>
