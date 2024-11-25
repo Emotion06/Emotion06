@@ -1,41 +1,35 @@
-<h1 align="center"> Hello there 👋, I'm Emotion </h1>
+<div align="center">
 
-<h2 align="center">🙋🏻‍♂️ About Me</h2>
-<p align="center">Passionate developer from Germany who is enthusiastic about innovative technologies and constantly evolving to create great things.
-</p>
+# 🙋🏻‍♂️ About Me
+Hello everyone! I'm Tim, a student with a passion for programming and a drive to discover new things. Whether it's web, app, or game development, I enjoy diving into different fields and learning as much as I can along the way.
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Emotion06">
-</p>
+Currently, I'm part of a game modding team that focuses on creating immersive experiences for RedM/Cfx.re through custom mappings and scripts. Working on these projects not only fuels my creativity but also pushes me to grow as a developer.
 
-<h2 align="center">🛠 Technologies & Tools </h2>
+Every line of code is a step toward improving my skills, and I'm excited to see where this journey takes me next.
 
-<p align="center">
-    <!-- Lua -->
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-    <!-- HTML -->
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <!-- CSS -->
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <!-- SQL -->
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <!-- JavaScript -->
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <!-- Vue.js -->
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08Dstyle=flat"/>
-    <!-- Node.js -->
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+<br>
 
-<h3 align="center">Currently learning: </h3>
-<p align="center">
-    <!-- C# -->
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-    <!-- .NET -->
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</p>
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Emotion06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<h2 align="center">📊 Statistics </h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Emotion06&show_icons=true&theme=cobalt" alt="">
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Emotion06&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emotion06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Emotion06&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Emotion06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+![](https://komarev.com/ghpvc/?username=Emotion06)
+
+</div>
